@@ -1,0 +1,5 @@
+{
+  "name": "Atmolite",
+  "description": "A weather application that generates 3D atmospheric miniature visualizations of cities.",
+  "requestFramePermissions": []
+}
